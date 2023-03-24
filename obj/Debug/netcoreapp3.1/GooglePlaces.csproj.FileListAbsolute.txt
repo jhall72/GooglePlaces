@@ -1,0 +1,15 @@
+C:\Users\John\source\repos\GooglePlaces\GooglePlaces\bin\Debug\netcoreapp3.1\GooglePlaces.exe
+C:\Users\John\source\repos\GooglePlaces\GooglePlaces\bin\Debug\netcoreapp3.1\GooglePlaces.deps.json
+C:\Users\John\source\repos\GooglePlaces\GooglePlaces\bin\Debug\netcoreapp3.1\GooglePlaces.runtimeconfig.json
+C:\Users\John\source\repos\GooglePlaces\GooglePlaces\bin\Debug\netcoreapp3.1\GooglePlaces.runtimeconfig.dev.json
+C:\Users\John\source\repos\GooglePlaces\GooglePlaces\bin\Debug\netcoreapp3.1\GooglePlaces.dll
+C:\Users\John\source\repos\GooglePlaces\GooglePlaces\bin\Debug\netcoreapp3.1\GooglePlaces.pdb
+C:\Users\John\source\repos\GooglePlaces\GooglePlaces\obj\Debug\netcoreapp3.1\GooglePlaces.csprojAssemblyReference.cache
+C:\Users\John\source\repos\GooglePlaces\GooglePlaces\obj\Debug\netcoreapp3.1\GooglePlaces.AssemblyInfoInputs.cache
+C:\Users\John\source\repos\GooglePlaces\GooglePlaces\obj\Debug\netcoreapp3.1\GooglePlaces.AssemblyInfo.cs
+C:\Users\John\source\repos\GooglePlaces\GooglePlaces\obj\Debug\netcoreapp3.1\GooglePlaces.csproj.CoreCompileInputs.cache
+C:\Users\John\source\repos\GooglePlaces\GooglePlaces\obj\Debug\netcoreapp3.1\GooglePlaces.dll
+C:\Users\John\source\repos\GooglePlaces\GooglePlaces\obj\Debug\netcoreapp3.1\GooglePlaces.pdb
+C:\Users\John\source\repos\GooglePlaces\GooglePlaces\obj\Debug\netcoreapp3.1\GooglePlaces.genruntimeconfig.cache
+C:\Users\John\source\repos\GooglePlaces\GooglePlaces\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\John\source\repos\GooglePlaces\GooglePlaces\obj\Debug\netcoreapp3.1\GooglePlaces.csproj.CopyComplete
